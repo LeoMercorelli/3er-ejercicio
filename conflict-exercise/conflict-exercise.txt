@@ -76,13 +76,12 @@ git commit -m "Resolved merge conflict"
 Paso 7: Subir los cambios a GitHub
 • Sube los cambios de la rama main al repositorio remoto en GitHub:
 git push origin main
-TECNICATURA UNIVERSITARIA
-EN PROGRAMACIÓN
-A DISTANCIA
-5
-Programación I
 • También sube la feature-branch si deseas:
 git push origin feature-branch
+
+
+
+
 Paso 8: Verificar en GitHub
 • Ve a tu repositorio en GitHub y revisa el archivo README.md para confirmar
 que los cambios se han subido correctamente.
